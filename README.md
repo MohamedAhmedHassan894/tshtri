@@ -5,7 +5,7 @@ this project uses Provider for  State Management
 ## Getting Started
 
 ## to Run Project in your machine:
-rub this commands in terminal :
+run these commands in terminal :
  - flutter pub get
  - flutter run
    
